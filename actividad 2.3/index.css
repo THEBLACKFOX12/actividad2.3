@@ -1,0 +1,55 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: cadetblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#titulo1 {
+color: yellowgreen;
+font-size: 30px;
+text-align: center;
+margin-top: 50px;
+flex-direction: column;
+}
+
+#titulo2 {
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#titulos3 {
+    color: red;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.p1 {
+    color: red;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.p2 {
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.p3 {
+    color: yellowgreen;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
